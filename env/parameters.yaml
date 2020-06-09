@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:rom-cjxd10/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: rverduci@gmail.com
+  token: vault:rom-cjxd10/pipelineUser:token
+  username: core-platform-test-bot
+prow:
+  hmacToken: vault:rom-cjxd10/prow:hmacToken
