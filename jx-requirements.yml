@@ -19,13 +19,13 @@ cluster:
   zone: europe-west1-b
 environments:
 - ingress:
-    domain: 35.241.137.79.nip.io
-    externalDNS: false
+    domain: rom-cjxd10.jenkins-x.rocks
+    externalDNS: true
     namespaceSubDomain: -jx.
     tls:
-      email: ""
-      enabled: false
-      production: false
+      email: rverduci@cloudbees.com
+      enabled: true
+      production: true
   key: dev
   repository: environment-rom-cjxd10-dev
 - ingress:
