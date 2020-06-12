@@ -35,3 +35,9 @@ dependencies:
   url: https://github.com/romainverduci/test-qs-2.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: romainverduci
+  repo: test-qs-5
+  url: https://github.com/romainverduci/test-qs-5.git
+  version: ""
+  versionURL: ""
