@@ -6,3 +6,4 @@ Dependency | Sources | Version | Mismatched versions
 [romainverduci/rom27](https://github.com/romainverduci/rom27.git) |  | []() | 
 [romainverduci/rom28](https://github.com/romainverduci/rom28.git) |  | []() | 
 [romainverduci/rom29](https://github.com/romainverduci/rom29.git) |  | []() | 
+[romainverduci/test-qs](https://github.com/romainverduci/test-qs.git) |  | []() | 

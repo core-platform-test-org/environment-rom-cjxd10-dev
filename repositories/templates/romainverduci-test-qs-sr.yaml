@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: romainverduci
+    provider: github
+    repository: test-qs
+  name: romainverduci-test-qs
+spec:
+  description: Imported application for romainverduci/test-qs
+  httpCloneURL: https://github.com/romainverduci/test-qs.git
+  org: romainverduci
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: test-qs
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/romainverduci/test-qs.git
