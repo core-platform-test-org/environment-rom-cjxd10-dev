@@ -47,3 +47,9 @@ dependencies:
   url: https://github.com/romainverduci/rom-qs-6.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: romainverduci
+  repo: rom30
+  url: https://github.com/romainverduci/rom30.git
+  version: ""
+  versionURL: ""

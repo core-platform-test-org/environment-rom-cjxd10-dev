@@ -10,3 +10,4 @@ Dependency | Sources | Version | Mismatched versions
 [romainverduci/test-qs-2](https://github.com/romainverduci/test-qs-2.git) |  | []() | 
 [romainverduci/test-qs-5](https://github.com/romainverduci/test-qs-5.git) |  | []() | 
 [romainverduci/rom-qs-6](https://github.com/romainverduci/rom-qs-6.git) |  | []() | 
+[romainverduci/rom30](https://github.com/romainverduci/rom30.git) |  | []() | 
