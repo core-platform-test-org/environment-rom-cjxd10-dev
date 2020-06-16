@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: romainverduci
+    provider: github
+    repository: rom32
+  name: romainverduci-rom32
+spec:
+  description: Imported application for romainverduci/rom32
+  httpCloneURL: https://github.com/romainverduci/rom32.git
+  org: romainverduci
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: rom32
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/romainverduci/rom32.git
