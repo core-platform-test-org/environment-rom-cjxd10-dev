@@ -18,3 +18,4 @@ Dependency | Sources | Version | Mismatched versions
 [romainverduci/rom35](https://github.com/romainverduci/rom35.git) |  | []() | 
 [romainverduci/rom36](https://github.com/romainverduci/rom36.git) |  | []() | 
 [romainverduci/rom37](https://github.com/romainverduci/rom37.git) |  | []() | 
+[romainverduci/rom39](https://github.com/romainverduci/rom39.git) |  | []() | 
