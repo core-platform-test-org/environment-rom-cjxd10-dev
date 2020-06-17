@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: romainverduci
+    provider: github
+    repository: rom49
+  name: romainverduci-rom49
+spec:
+  description: Imported application for romainverduci/rom49
+  httpCloneURL: https://github.com/romainverduci/rom49.git
+  org: romainverduci
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: rom49
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/romainverduci/rom49.git
