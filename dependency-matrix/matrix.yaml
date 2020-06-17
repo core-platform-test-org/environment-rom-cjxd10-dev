@@ -143,9 +143,3 @@ dependencies:
   url: https://github.com/romainverduci/rom47.git
   version: ""
   versionURL: ""
-- host: github.com
-  owner: romainverduci
-  repo: rom50
-  url: https://github.com/romainverduci/rom50.git
-  version: ""
-  versionURL: ""
